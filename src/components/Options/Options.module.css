@@ -1,0 +1,16 @@
+.wrap {
+  margin: 20px;
+  margin-left: 0;
+}
+
+.btn {
+  width: 140px;
+  height: 40px;
+  background-color: transparent;
+  border: 3px solid rgb(87, 37, 3);
+  border-radius: 6px;
+  margin-right: 16px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(49, 46, 46);
+}
